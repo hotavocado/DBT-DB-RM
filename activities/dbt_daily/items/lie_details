@@ -1,0 +1,11 @@
+{
+    "@context": [
+        "https://raw.githubusercontent.com/ReproNim/reproschema/master/contexts/generic"
+    ],
+    "@type": "reproschema:Field",
+    "@id": "lie_details",
+    "ui": {
+        "inputType": "text"
+    },
+    "question": "What was the lie, and who did you lie to?"
+}
