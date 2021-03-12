@@ -135,7 +135,7 @@
             {
                 "variableName": "skip_class_details",
                 "isAbout": "skip_class_details",
-                "isVis": "skip_class == 1"
+                "isVis": "skip_class > 0"
             },
             {
                 "variableName": "hear_voices",
@@ -185,7 +185,7 @@
             {
                 "variableName": "risky_sexual_details",
                 "isAbout": "risky_sexual_details",
-                "isVis": "risky_sexual == 1"
+                "isVis": "risky_sexual > 0"
             },
             {
                 "variableName": "meds",
